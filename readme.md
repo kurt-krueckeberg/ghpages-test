@@ -1,5 +1,6 @@
 This repo is an example of using [Sphinx to GitHub Pages V3](https://github.com/marketplace/actions/sphinx-to-github-pages) Action to automatically build
-a Sphinx-doc website.
+a Sphinx-doc website without having to manually create it locally, copy the files in `_build/html` and `_static` to the root of the repo and then 
+push them to github.
 
 However, I did make these changes to the [Sphinx to Github Pagpes](https://github.com/marketplace/actions/sphinx-to-github-pages):
 
