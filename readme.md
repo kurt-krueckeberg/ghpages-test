@@ -23,13 +23,12 @@ on:
     branches: [main] # branch to trigger deployment
 ```
 
-I also changed `runs-on: ubuntu-20.04` to `runs-on: ubuntu-latest`. My requirements.txt file has the Python3 packages need to build the project.
-This includes Sphinx itself and two other packages:
+I also changed `runs-on: ubuntu-20.04` to `runs-on: ubuntu-latest`. My requirements.txt file has the Python3 packages needed to build the project.
+This includes the `sphinx` package itself and two other packages:
 
-```
-sphinx
-myst-parser
-sphinx-book-theme
+- sphinx
+- myst-parser
+- sphinx-book-theme
 ```
 
 > [!NOTE]
