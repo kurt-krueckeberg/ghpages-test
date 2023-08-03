@@ -1,4 +1,4 @@
-An example of using [Sphinx to GitHub Pages V3](https://github.com/marketplace/actions/sphinx-to-github-pages) Action to automatically build
+This is an example of using [Sphinx to GitHub Pages V3](https://github.com/marketplace/actions/sphinx-to-github-pages) Action to automatically build
 a Sphinx-doc website.
 
 However, I did make these changes to the [Sphinx to Github Pagpes](https://github.com/marketplace/actions/sphinx-to-github-pages):
