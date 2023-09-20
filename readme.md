@@ -30,6 +30,15 @@ This includes the `sphinx` package itself and two other packages:
 - myst-parser
 - sphinx-book-theme
 ```
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
 
 > [!IMPORTANT]
 > The `requirements.txt` files must go in your `docs` folder. Don't put it in the root. So in addition to your `.md`  files in
