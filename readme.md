@@ -30,7 +30,7 @@ This includes the `sphinx` package itself and two other packages:
 - myst-parser
 - sphinx-book-theme
 ```
-> [!NOTE]  
+>  **NOTE**
 > Highlights information that users should take into account, even when skimming.
 
 > [!IMPORTANT]  
