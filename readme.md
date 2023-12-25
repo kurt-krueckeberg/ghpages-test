@@ -55,4 +55,4 @@ sphinx-book-theme
 
 ## `docs/` Folder Contents
 
-The `docs` folder holds all the files created when `sphinxquick-start` is run (and subsequent changes made to it) as well as any customr `.css` in `docs/_static`.
+The `docs` folder holds all the files created when `sphinxquick-start` is run (and subsequent changes made to it) as well as any custom `.css` in `docs/_static`.
